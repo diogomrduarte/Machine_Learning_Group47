@@ -1,10 +1,16 @@
 # Machine_Learning_Group47
 
 Group 47 members:
+
 Diogo Duarte 20240525
+
 Inês Araújo 20240532
+
 Luís Semedo 20240852
+
 Rui Luz 20211628
+
+---
 
 The New York Workers’ Compensation Board (WCB) oversees the claims process, having reviewed over 5 million cases since 2000. 
 
